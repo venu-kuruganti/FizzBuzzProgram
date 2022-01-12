@@ -1,0 +1,16 @@
+C:\Users\venuk\Documents\Personal\Personal Projects\FizzBuzz\FizzBuzzApplication\bin\Debug\net5.0\FizzBuzzApplication.exe
+C:\Users\venuk\Documents\Personal\Personal Projects\FizzBuzz\FizzBuzzApplication\bin\Debug\net5.0\FizzBuzzApplication.deps.json
+C:\Users\venuk\Documents\Personal\Personal Projects\FizzBuzz\FizzBuzzApplication\bin\Debug\net5.0\FizzBuzzApplication.runtimeconfig.json
+C:\Users\venuk\Documents\Personal\Personal Projects\FizzBuzz\FizzBuzzApplication\bin\Debug\net5.0\FizzBuzzApplication.runtimeconfig.dev.json
+C:\Users\venuk\Documents\Personal\Personal Projects\FizzBuzz\FizzBuzzApplication\bin\Debug\net5.0\FizzBuzzApplication.dll
+C:\Users\venuk\Documents\Personal\Personal Projects\FizzBuzz\FizzBuzzApplication\bin\Debug\net5.0\ref\FizzBuzzApplication.dll
+C:\Users\venuk\Documents\Personal\Personal Projects\FizzBuzz\FizzBuzzApplication\bin\Debug\net5.0\FizzBuzzApplication.pdb
+C:\Users\venuk\Documents\Personal\Personal Projects\FizzBuzz\FizzBuzzApplication\obj\Debug\net5.0\FizzBuzzApplication.csproj.AssemblyReference.cache
+C:\Users\venuk\Documents\Personal\Personal Projects\FizzBuzz\FizzBuzzApplication\obj\Debug\net5.0\FizzBuzzApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venuk\Documents\Personal\Personal Projects\FizzBuzz\FizzBuzzApplication\obj\Debug\net5.0\FizzBuzzApplication.AssemblyInfoInputs.cache
+C:\Users\venuk\Documents\Personal\Personal Projects\FizzBuzz\FizzBuzzApplication\obj\Debug\net5.0\FizzBuzzApplication.AssemblyInfo.cs
+C:\Users\venuk\Documents\Personal\Personal Projects\FizzBuzz\FizzBuzzApplication\obj\Debug\net5.0\FizzBuzzApplication.csproj.CoreCompileInputs.cache
+C:\Users\venuk\Documents\Personal\Personal Projects\FizzBuzz\FizzBuzzApplication\obj\Debug\net5.0\FizzBuzzApplication.dll
+C:\Users\venuk\Documents\Personal\Personal Projects\FizzBuzz\FizzBuzzApplication\obj\Debug\net5.0\ref\FizzBuzzApplication.dll
+C:\Users\venuk\Documents\Personal\Personal Projects\FizzBuzz\FizzBuzzApplication\obj\Debug\net5.0\FizzBuzzApplication.pdb
+C:\Users\venuk\Documents\Personal\Personal Projects\FizzBuzz\FizzBuzzApplication\obj\Debug\net5.0\FizzBuzzApplication.genruntimeconfig.cache
